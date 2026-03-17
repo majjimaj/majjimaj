@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @majjimaj
 - 👀 I’m interested in developing websites with Wordpress Web Design
-- 🌱 I’m currently learning Web Development with ReactJS, NodeJS, AngularJS
+- 🌱 I’m currently learning Web Development with ReactJS, NextJS, AngularJS
 - 📫 You can reach me through my email : majoyluraobejero@gmail.com
 
 <!---
